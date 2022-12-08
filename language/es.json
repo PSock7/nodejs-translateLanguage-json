@@ -1,0 +1,14 @@
+{
+  "pricing_table": "Tablas de precios",
+  "basic": "Básico",
+  "pro": "Pro",
+  "premium": "Premium",
+  "storage": "Almacenamiento",
+  "email": "Correos electrónicos",
+  "domain": "Dominios",
+  "sign_up": "Inscríbete",
+  "cost_basic": "$ 10",
+  "cost_pro": "$ 25",
+  "cost_premium": "$ 50",
+  "per_month": "al mes"
+}
